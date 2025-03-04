@@ -17,9 +17,6 @@ List dependencies and provide installation instructions.
 ## **Data Sources:**
 Data sheet
 
-## **Usage:**
---
-
 ## **Author:**
 Rejin Raveendran
 
